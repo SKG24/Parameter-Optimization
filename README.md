@@ -22,8 +22,23 @@ Test accuracy is recorded for each value of C.
 The best-performing C and its corresponding accuracy are saved.
 
 ***Results Table***
+=== Best Parameters and Accuracies (Table 1) ===
+
+   Sample  Best Accuracy                     Best Parameters
+0       1       0.967333     {'C': 10.0, 'kernel': 'rbf', 'gamma': 'scale'}
+1       2       0.962333     {'C': 10.0, 'kernel': 'rbf', 'gamma': 'scale'}
+2       3       0.963167     {'C': 10.0, 'kernel': 'rbf', 'gamma': 'scale'}
+3       4       0.961667     {'C': 10.0, 'kernel': 'rbf', 'gamma': 'scale'}
+4       5       0.959167     {'C': 10.0, 'kernel': 'rbf', 'gamma': 'scale'}
+5       6       0.960833  {'C': 9.595918367346938, 'kernel': 'rbf', 'gam...
+6       7       0.958167     {'C': 10.0, 'kernel': 'rbf', 'gamma': 'scale'}
+7       8       0.964333  {'C': 8.585714285714285, 'kernel': 'rbf', 'gam...
+8       9       0.965167  {'C': 9.79795918367347, 'kernel': 'rbf', 'gamm...
+9      10       0.963500     {'C': 10.0, 'kernel': 'rbf', 'gamma': 'scale'}
 
 
 ***Convergence Graph***
+![Screenshot 2025-04-20 at 3 41 01 PM](https://github.com/user-attachments/assets/70d9a868-dac9-4fb9-852c-6a4b6265b6bd)
+
 
 This figure shows the accuracy at each iteration (i.e., for each value of C) for the best-performing train-test split.
