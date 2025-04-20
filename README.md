@@ -23,19 +23,6 @@ The best-performing C and its corresponding accuracy are saved.
 
 ***Results Table***
 
-=== Best Parameters and Accuracies (Table 1) ===
-
-0       1       0.967333     {'C': 10.0, 'kernel': 'rbf', 'gamma': 'scale'}
-1       2       0.962333      {'C': 9.9, 'kernel': 'rbf', 'gamma': 'scale'}
-2       3       0.963167     {'C': 10.0, 'kernel': 'rbf', 'gamma': 'scale'}
-3       4       0.961667     {'C': 10.0, 'kernel': 'rbf', 'gamma': 'scale'}
-4       5       0.959167     {'C': 10.0, 'kernel': 'rbf', 'gamma': 'scale'}
-5       6       0.961000  {'C': 9.700000000000001, 'kernel': 'rbf', 'gam...
-6       7       0.958167     {'C': 10.0, 'kernel': 'rbf', 'gamma': 'scale'}
-7       8       0.964333      {'C': 8.5, 'kernel': 'rbf', 'gamma': 'scale'}
-8       9       0.965167  {'C': 9.700000000000001, 'kernel': 'rbf', 'gam...
-9      10       0.963500      {'C': 9.9, 'kernel': 'rbf', 'gamma': 'scale'}
-
 
 ***Convergence Graph***
 
