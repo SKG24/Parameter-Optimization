@@ -13,7 +13,7 @@ We run the experiment over 10 different train-test splits (test_size=0.3, random
 
 For each split:
 
-A loop tries 100 values of C, linearly spaced from 0.1 to 10.
+A loop tries 50 values of C, linearly spaced from 0.1 to 10.
 
 Each configuration trains an SVC model with an RBF kernel.
 
